@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="169mm"
+   height="143mm"
+   viewBox="0 0 169 143"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\marce\bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="facebook.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="363.93081"
+     inkscape:cy="201.7456"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-154)">
+    <rect
+       style="fill:#415cad;fill-opacity:1;stroke:none;stroke-width:0.22646308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect890"
+       width="98.825279"
+       height="95.851379"
+       x="37.643353"
+       y="172.42372"
+       ry="15.327072"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       aria-label="f"
+       transform="matrix(5.4650152,0,0,4.3032054,-1790.7919,-1037.3366)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.46339035px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot928">
+      <path
+         d="m 342.03749,287.70001 q 0,-1.3115 0.59873,-1.95774 0.60823,-0.65575 1.8627,-0.65575 h 1.80569 v 2.31888 h -1.10242 q -0.2756,0 -0.41816,0.20908 -0.14255,0.20908 -0.14255,0.5417 v 10.74859 h -2.60399 z m -1.0454,1.34001 h 5.31252 v 2.22384 h -5.31252 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.46339035px;line-height:0;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold'"
+         id="path944" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot936"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.898015,156.93996)"><flowRegion
+         id="flowRegion938"><rect
+           id="rect940"
+           width="270.72089"
+           height="51.51778"
+           x="435.37573"
+           y="478.85312" /></flowRegion><flowPara
+         id="flowPara942">Marcel Bilski</flowPara></flowRoot>  </g>
+</svg>
