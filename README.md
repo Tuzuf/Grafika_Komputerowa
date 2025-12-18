@@ -1,5 +1,5 @@
-# Grafika komputerowa
+# Grafika_Komputerowa
 ## Cel projektu
-## #Technologie
+## Technologie
 ## Funkcje
 ## Wynki
