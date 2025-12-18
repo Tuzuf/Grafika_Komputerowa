@@ -1,1 +1,5 @@
-All of my computer graphics projects
+# Grafika komputerowa
+## Cel projektu
+## #Technologie
+## Funkcje
+## Wynki
